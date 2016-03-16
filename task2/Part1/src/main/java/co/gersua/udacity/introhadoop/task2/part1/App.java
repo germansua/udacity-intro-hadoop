@@ -1,4 +1,4 @@
-package co.gersua.udacity.introhadoop.part31;
+package co.gersua.udacity.introhadoop.task2.part1;
 
 /**
  * Hello world!
